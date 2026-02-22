@@ -1,0 +1,12 @@
+sources:
+  - name: yellowtaxi
+    database: de-zoomcamp26-487314
+    schema: yellowdataset
+    tables: 
+      - name: yellowdata_2024_partitioned
+
+  - name: greentaxi
+    database: de-zoomcamp26-487314
+    schema: greendataset
+    tables: 
+      - name: greendata_2024_partitioned
